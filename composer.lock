@@ -1056,16 +1056,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v11.36.0",
+            "version": "v11.36.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "153254cac5210eba8e14709f5eb7450e73fa690e"
+                "reference": "df06f5163f4550641fdf349ebc04916a61135a64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/153254cac5210eba8e14709f5eb7450e73fa690e",
-                "reference": "153254cac5210eba8e14709f5eb7450e73fa690e",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/df06f5163f4550641fdf349ebc04916a61135a64",
+                "reference": "df06f5163f4550641fdf349ebc04916a61135a64",
                 "shasum": ""
             },
             "require": {
@@ -1267,7 +1267,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2024-12-17T18:21:58+00:00"
+            "time": "2024-12-17T22:32:08+00:00"
         },
         {
             "name": "laravel/prompts",
@@ -2514,15 +2514,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/OleksandraMorunova/test_logger.git",
-                "reference": "8652fa8b1d8ffb905eef19be5c8ac5f8fefa05b7"
+                "reference": "c337982a7d894e305af8ae48140fa5c42c8334cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/OleksandraMorunova/test_logger/zipball/8652fa8b1d8ffb905eef19be5c8ac5f8fefa05b7",
-                "reference": "8652fa8b1d8ffb905eef19be5c8ac5f8fefa05b7",
+                "url": "https://api.github.com/repos/OleksandraMorunova/test_logger/zipball/c337982a7d894e305af8ae48140fa5c42c8334cd",
+                "reference": "c337982a7d894e305af8ae48140fa5c42c8334cd",
                 "shasum": ""
             },
             "require": {
+                "ext-pdo": "*",
                 "php": "^8.0",
                 "phpmailer/phpmailer": "^6.9"
             },
@@ -2544,7 +2545,7 @@
                 "issues": "https://github.com/OleksandraMorunova/test_logger/issues",
                 "source": "https://github.com/OleksandraMorunova/test_logger/tree/main"
             },
-            "time": "2024-12-17T22:22:17+00:00"
+            "time": "2024-12-18T07:36:50+00:00"
         },
         {
             "name": "phpmailer/phpmailer",
