@@ -2514,12 +2514,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/OleksandraMorunova/test_logger.git",
-                "reference": "c337982a7d894e305af8ae48140fa5c42c8334cd"
+                "reference": "411187c86c6f330fb8f6ddc87bad1d91207f480a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/OleksandraMorunova/test_logger/zipball/c337982a7d894e305af8ae48140fa5c42c8334cd",
-                "reference": "c337982a7d894e305af8ae48140fa5c42c8334cd",
+                "url": "https://api.github.com/repos/OleksandraMorunova/test_logger/zipball/411187c86c6f330fb8f6ddc87bad1d91207f480a",
+                "reference": "411187c86c6f330fb8f6ddc87bad1d91207f480a",
                 "shasum": ""
             },
             "require": {
@@ -2545,7 +2545,7 @@
                 "issues": "https://github.com/OleksandraMorunova/test_logger/issues",
                 "source": "https://github.com/OleksandraMorunova/test_logger/tree/main"
             },
-            "time": "2024-12-18T07:36:50+00:00"
+            "time": "2024-12-18T08:07:13+00:00"
         },
         {
             "name": "phpmailer/phpmailer",

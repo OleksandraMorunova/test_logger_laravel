@@ -6,15 +6,12 @@ use Exception;
 use Illuminate\Contracts\Routing\ResponseFactory;
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Response;
-use Om\TestLogger\Classes\Logger;
 use Om\TestLogger\Interfaces\LoggerInterface;
 
 class LoggerController extends Controller
 {
 
-    public function __construct(protected LoggerInterface $logger)
-    {
-    }
+    public function __construct(protected LoggerInterface $logger) { }
 
     /**
      * • Sends a log message to the default logger.
